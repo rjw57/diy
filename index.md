@@ -7,6 +7,16 @@ title: Notes on DIY
 
 ## Videos
 
+An introduction to the types of floor heating matting available:
+
+<p class="videowrap">
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/HYM3OMPKYhU?list=PL17701C03171ABA35"
+frameborder="0" allowfullscreen></iframe>
+</p>
+
+### Insulating boards
+
 Insulating boards are laid under heating mats:
 
 <p class="videowrap">
