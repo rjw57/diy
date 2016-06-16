@@ -1,0 +1,14 @@
+Text copyright (c) 2016 Rich Wareham <rich.diy@richwareham.com>
+
+Text licensed under the terms of the Creative Commons BY-NC-SA 4.0 International
+licence. Full text at:
+
+	http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Theme copyright and licensing from:
+
+	https://github.com/pietromenna/jekyll-architect-theme/
+
+	"This work is licensed under a Creative Commons Attribution 4.0
+	International.
+	http://creativecommons.org/licenses/by/4.0/"

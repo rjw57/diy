@@ -489,12 +489,19 @@ header h2 {
 }
 
 #main-content {
-  float: left;
-  width: 690px;
+  /* float: left;
+  width: 690px; */
 }
 
 #main-content img {
   max-width: 100%;
+}
+
+footer#footer {
+  font-size: 12px;
+  padding-top: 10px;
+  margin-top: 20px;
+  border-top: 1px solid #ddd;
 }
 
 aside#sidebar {
