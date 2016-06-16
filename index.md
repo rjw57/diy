@@ -43,3 +43,18 @@ Web-type matting is suitable for laying under tiles.
 frameborder="0" allowfullscreen></iframe>
 </p>
 
+## Laminate flooring
+
+Laying the floor:
+
+<p class="videowrap">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j4SLV8DwMnU"
+frameborder="0" allowfullscreen></iframe>
+</p>
+
+Adding the beading around the edge:
+
+<p class="videowrap">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qTaJn30dsRc"
+frameborder="0" allowfullscreen></iframe>
+</p>
