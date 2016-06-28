@@ -3,6 +3,11 @@ layout: default
 title: Notes on DIY
 ---
 
+# Plastering and painting
+
+The [How to Paint a House Right](http://www.howtopaintahouseright.com/) website
+has a series of videos on painting and decorating.
+
 # Underfloor heating
 
 ## Videos
